@@ -15,7 +15,7 @@ The SITL (Software In The Loop) simulator allows you to create and test DroneKit
 Download or clone the project from github
 
 ```sh
-$ git clone https://github.com/nityansuman/marvin.git
+$ https://github.com/appy786/dronekit.git
 ```
 Install prerequisites
 ```sh
