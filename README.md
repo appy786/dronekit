@@ -60,3 +60,12 @@ $ python3 sim-conroller.py
 ```
 
 ### Screenshots:
+
+![Screenshot from 2021-04-06 12-27-53](https://user-images.githubusercontent.com/68418846/113671662-4b919f80-96d4-11eb-9bb3-64e278789587.png)
+![Screenshot from 2021-04-06 12-28-59](https://user-images.githubusercontent.com/68418846/113671679-4fbdbd00-96d4-11eb-91c0-2072c430db56.png)
+- Controlling with arrow keys
+![Screenshot from 2021-04-06 12-31-58](https://user-images.githubusercontent.com/68418846/113671693-53e9da80-96d4-11eb-8006-1be315d3764d.png)
+- mission completed only if press r to return to the landing point 
+![Screenshot from 2021-04-06 12-32-34](https://user-images.githubusercontent.com/68418846/113671710-5ba97f00-96d4-11eb-9be1-6b69e2bc985a.png)
+
+
