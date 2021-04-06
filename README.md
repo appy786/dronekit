@@ -21,15 +21,42 @@ Install prerequisites
 ```sh
 $ pip install -r requirements.txt
 ```
-
-Run project
+## Start machine manually
+Run project 1 :
 
 ```sh
 $ cd dronekit
-$ python3 simulation.py
+$ python3 sim-manual.py
 ```
 
-## Screenshots:
+### Screenshots:
 
+- Define the area:
 
+![Screenshot from 2021-04-06 11-45-42](https://user-images.githubusercontent.com/68418846/113668688-3e72b180-96d0-11eb-8720-0b2357f8b082.png)
 
+- Start drone toward 1st waypiont :
+
+![Screenshot from 2021-04-06 11-46-42](https://user-images.githubusercontent.com/68418846/113668724-4894b000-96d0-11eb-8a43-da48078bb459.png)
+
+- Taking pictures :
+
+![Screenshot from 2021-04-06 11-48-45](https://user-images.githubusercontent.com/68418846/113668738-4df1fa80-96d0-11eb-853a-0ec4d3f657a9.png)
+
+- Drone flight plan completed
+
+![Screenshot from 2021-04-06 11-56-14](https://user-images.githubusercontent.com/68418846/113668756-564a3580-96d0-11eb-97c6-6b57dd5577cb.png)
+
+- Download telemetry data :
+
+![Screenshot from 2021-04-06 12-00-27](https://user-images.githubusercontent.com/68418846/113668775-5e09da00-96d0-11eb-92c1-6b1ddd08eba0.png)
+
+## Controlling drone with keyboard arrows
+Run project 2 :
+
+```sh
+$ cd dronekit
+$ python3 sim-conroller.py
+```
+
+### Screenshots:
