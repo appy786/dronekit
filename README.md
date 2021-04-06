@@ -69,3 +69,27 @@ $ python3 sim-conroller.py
 ![Screenshot from 2021-04-06 12-32-34](https://user-images.githubusercontent.com/68418846/113671710-5ba97f00-96d4-11eb-9be1-6b69e2bc985a.png)
 
 
+
+
+## Predefine 3 waypoints
+Run project 3 :
+
+```sh
+$ cd dronekit
+$ python3 sim-points.py
+```
+
+### Screenshots:
+
+
+![Screenshot from 2021-04-06 12-41-27](https://user-images.githubusercontent.com/68418846/113672551-8fd16f80-96d5-11eb-9287-f46536316765.png)
+
+- Going towards 1st waypoint :
+![Screenshot from 2021-04-05 17-37-08](https://user-images.githubusercontent.com/68418846/113672605-9eb82200-96d5-11eb-9ef7-80c567653e9d.png)
+
+- Going towards 2nd waypoint :
+![Screenshot from 2021-04-05 17-38-21](https://user-images.githubusercontent.com/68418846/113672625-a1b31280-96d5-11eb-99fc-e898a0065928.png)
+
+- Going towards final waypoint
+![Screenshot from 2021-04-05 17-38-50](https://user-images.githubusercontent.com/68418846/113672627-a24ba900-96d5-11eb-94bb-71def28bfb81.png)
+
