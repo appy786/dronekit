@@ -1,0 +1,6 @@
+sudo apt-get install python-pip3 python-dev
+sudo pip3 install dronekit
+sudo pip3 install dronekit-sitl 
+sudo pip3 uninstall pymavlink
+sudo pip3 install pymavlink==2.4.8
+sudo install spyder
